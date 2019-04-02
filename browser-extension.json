@@ -1,5 +1,5 @@
 {
-  "allowDirectMerges": false,
+  "allowDirectMerges": ["4.x-branch"],
   "allowBotCommands": false,
   "internalRepository": "fbsource",
   "cannedReplies": {
