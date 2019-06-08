@@ -23,8 +23,8 @@
 #import <OCMock/OCMock.h>
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
-#import <FBSDKShareKit/FBSDKHashtag.h>
-#import <FBSDKShareKit/FBSDKShareDialog.h>
+#import "FBSDKHashtag.h"
+#import "FBSDKShareDialog.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKShareDefines.h"

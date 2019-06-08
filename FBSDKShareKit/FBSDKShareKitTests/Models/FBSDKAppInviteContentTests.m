@@ -18,7 +18,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKAppInviteContent.h>
+#import "FBSDKAppInviteContent.h"
 
 #import <XCTest/XCTest.h>
 

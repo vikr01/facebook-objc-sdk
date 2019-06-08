@@ -20,8 +20,8 @@
 #import <UIKit/UIKit.h>
 
 #import <FBSDKCoreKit/FBSDKCopying.h>
-#import <FBSDKShareKit/FBSDKShareMediaContent.h>
-#import <FBSDKShareKit/FBSDKSharingValidation.h>
+#import "FBSDKShareMediaContent.h"
+#import "FBSDKSharingValidation.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

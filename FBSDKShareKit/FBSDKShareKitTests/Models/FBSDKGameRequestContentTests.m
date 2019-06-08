@@ -18,7 +18,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKGameRequestContent.h>
+#import "FBSDKGameRequestContent.h"
 
 #import <XCTest/XCTest.h>
 

@@ -21,7 +21,7 @@
 #import <Foundation/Foundation.h>
 
 #import <FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h>
-#import <FBSDKShareKit/FBSDKShareConstants.h>
+#import "FBSDKShareConstants.h"
 
 #import "FBSDKCoreKit+Internal.h"
 #import "FBSDKShareDefines.h"

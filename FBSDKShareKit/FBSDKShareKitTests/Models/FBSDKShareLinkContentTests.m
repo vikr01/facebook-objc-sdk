@@ -20,7 +20,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKShareLinkContent.h>
+#import "FBSDKShareLinkContent.h"
 
 #import <XCTest/XCTest.h>
 

@@ -20,8 +20,8 @@
 #import <XCTest/XCTest.h>
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
-#import <FBSDKShareKit/FBSDKCameraEffectArguments.h>
-#import <FBSDKShareKit/FBSDKShareConstants.h>
+#import "FBSDKCameraEffectArguments.h"
+#import "FBSDKShareConstants.h"
 
 #import "FBSDKShareModelTestUtility.h"
 

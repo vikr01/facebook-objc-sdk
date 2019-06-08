@@ -20,8 +20,8 @@
 
 #import <FBSDKCoreKit/FBSDKAccessToken.h>
 
-#import <FBSDKShareKit/FBSDKShareOpenGraphObject.h>
-#import <FBSDKShareKit/FBSDKSharing.h>
+#import "FBSDKShareOpenGraphObject.h"
+#import "FBSDKSharing.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

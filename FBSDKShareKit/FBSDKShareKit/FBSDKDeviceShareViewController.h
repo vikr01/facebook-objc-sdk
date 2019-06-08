@@ -20,7 +20,7 @@
 
 #import <FBSDKCoreKit/FBSDKDeviceViewControllerBase.h>
 
-#import <FBSDKShareKit/FBSDKSharingContent.h>
+#import "FBSDKSharingContent.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

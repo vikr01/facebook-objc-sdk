@@ -20,7 +20,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKShareOpenGraphContent.h>
+#import "FBSDKShareOpenGraphContent.h"
 
 #import <XCTest/XCTest.h>
 

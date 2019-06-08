@@ -19,7 +19,7 @@
 #import <Foundation/Foundation.h>
 
 #import <FBSDKCoreKit/FBSDKCopying.h>
-#import <FBSDKShareKit/FBSDKShareMessengerActionButton.h>
+#import "FBSDKShareMessengerActionButton.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -20,8 +20,8 @@
 
 #import <FBSDKCoreKit/FBSDKCopying.h>
 
-#import <FBSDKShareKit/FBSDKShareOpenGraphObject.h>
-#import <FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h>
+#import "FBSDKShareOpenGraphObject.h"
+#import "FBSDKShareOpenGraphValueContainer.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

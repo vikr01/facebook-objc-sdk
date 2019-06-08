@@ -22,7 +22,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKMessageDialog.h>
+#import "FBSDKMessageDialog.h"
 
 #import <XCTest/XCTest.h>
 

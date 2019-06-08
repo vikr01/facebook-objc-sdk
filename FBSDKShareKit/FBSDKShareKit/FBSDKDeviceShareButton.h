@@ -18,7 +18,7 @@
 
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 
-#import <FBSDKShareKit/FBSDKSharingContent.h>
+#import "FBSDKSharingContent.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

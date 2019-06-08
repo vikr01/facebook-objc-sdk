@@ -18,8 +18,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKShareKit/FBSDKShareConstants.h>
-#import <FBSDKShareKit/FBSDKShareOpenGraphObject.h>
+#import "FBSDKShareConstants.h"
+#import "FBSDKShareOpenGraphObject.h"
 
 #import <XCTest/XCTest.h>
 
